@@ -21,6 +21,88 @@
         padding: 5%;
         margin-top: 3%;
         margin-left: 4%;
-
     }
+    .clothes{background-size: cover;
+        background-position: center;
+        padding-top: 2%;
+        padding-left: 2%;
+        width: 250px;
+        padding-bottom: 12%;
+        margin-bottom: 5%;
+    }
+    .weekly{
+        padding: 0% 10%;
+        margin-bottom: 5%;
+    }
+    .clothes p{
+    font-size: 15px;
+    }
+    #Discover{
+        padding: 1% 2%;
+        font-size: 10px;
+    }
+    #view{
+        margin-left: 15%;
+    }
+    .shoes{
+        display:inline;
+    }
+    .athletic{
+        margin-left: 2%;
+        width: 250px;
+        padding-top: 15%;
+        padding-left: 2%;
+        padding-right: 2%;
+        padding-bottom: 2%;
+        margin-bottom: 3%;
+    }
+
+    .formal{
+        margin-left: 2%;
+        width: 250px;
+        padding-top: 15%;
+        padding-left: 2%;
+        padding-right: 2%;
+        padding-bottom: 2%;
+        margin-bottom: 3%;
+    }
+
+    .fusion{
+        margin-left: 2%;
+        width: 250px;
+        padding-top: 15%;
+        padding-left: 2%;
+        padding-right: 2%;
+        padding-bottom: 2%;
+        margin-bottom: 3%;
+    }
+    .welcome{
+        margin-left: 1%;
+        font-size: 10px;
+        letter-spacing: 1px;
+        line-height: 20px;
+    }
+    #play{
+        /* padding: 16%; */
+        /* background-size: cover; */
+        margin-bottom: 8%;
+        width: 250px;
+    }
+    footer{
+        display: flex;
+        gap: 1%;
+        line-height: 30px;
+        margin-left: 3%;
+        font-size: 8px;
+    }
+    #email{
+        padding: 1% 2%;
+        font-size: 10px;
+    }
+    #subscribe{
+        padding: 2% 3%;
+        font-size: 10px;
+    }
+
+
 }
