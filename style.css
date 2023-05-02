@@ -1,0 +1,230 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.body{
+    color: #343a40;
+
+}
+#navbar{
+    padding: 2% 30%;
+    color: #495057;
+    font-size: 18px;
+}
+#navbar ul {
+    display: flex;
+    gap: 10%;
+    list-style: none;
+}
+.clothes{
+    background: url(pexels-ekaterina-bolovtsova-7658539.jpg);
+    background-size: cover;
+    background-position: center;
+    padding-top: 10%;
+    padding-left: 8%;
+    padding-bottom: 12%;
+    margin-bottom: 5%;
+}
+.clothes p{
+    color: aliceblue;
+    font-size: 60px;
+}
+#Discover{
+    background-color:#f06595;
+    border-style: none;
+    color: white;
+    font-weight: 600;
+    padding: 2% 5%;
+    border-radius: 10px;
+}
+.weekly{
+    padding: 0% 40%;
+    margin-bottom: 5%;
+}
+.weekly p{
+    margin: 2% 5% 5%;
+    color: #adb5bd;
+    font-weight: 700;
+    font-size: 20px;
+}
+.weekly div ul{
+    display: flex;
+    list-style: none;
+    gap: 12%;
+    color: #495057;
+    font-size: 25px;
+
+}
+#line{
+    border-bottom: #343a40 solid 2px;
+}
+.fourModels{
+    margin: 5% 7%;
+    display: flex;
+    gap: 4%;
+}
+#model{
+    border-radius: 10px;
+}
+.models p{
+    font-size: 17px;
+    margin-top: 2%;
+    color: #343a40;
+    font-size: 18px;
+    font-weight: 600;
+}
+#arrow{
+    font-size: 50px;
+    color: #868e96;
+    background-color: #f1f3f5;
+    border-radius: 100%;
+    padding: 5%;
+    margin-top: 300%;
+}
+#view{
+    background-color:#f06595;
+    border-style: none;
+    color: white;
+    font-weight: 600;
+    padding: 2% 6%;
+    border-radius: 2px;
+    margin-left: 35%;
+    margin-bottom: 5%;
+}
+#show{
+    background-color:#f06595;
+    border-style: none;
+    color: white;
+    font-weight: 400;
+    padding: 4% 8%;
+    border-radius: 2px;
+    margin-bottom: 5%;  
+    margin-top: 5%; 
+}
+.shoes{
+    display: flex;
+    gap: 5%;
+    margin-top:3%;
+    margin-bottom: 10%;
+    margin-left: 5%;
+}
+.athletic{
+    background: url(pexels-nappy-936075.jpg);
+    background-size: cover;
+    padding-top: 35%;
+    padding-left: 7%;
+    padding-right: 8%;
+    padding-bottom: 5%;
+    color: #868e96;
+    border-radius: 5px;
+}
+.athletic h4{
+    font-size: 35px;
+    margin-bottom: 10%;
+}
+.athletic p{
+    font-size: 30px;
+    margin-bottom: 10%;
+}
+.formal{
+    background: url(shoe3.jpg);
+    background-size: cover;
+    padding-top: 10%;
+    padding-left: 7%;
+    padding-right: 15%;
+    padding-bottom: 5%;
+    color:#f1f3f5;
+    border-radius: 5px;
+    margin-bottom: 5%;
+    width: 600px;
+}
+.formal h4{
+    font-size: 25px;
+    margin-bottom: 10%;
+}
+.formal p{
+    font-size: 30px;
+    margin-bottom: 10%;
+}
+.fusion{
+    background: url(shoe3.jpg);
+    background-size: cover;
+    padding-top: 20%;
+    padding-left: 17%;
+    padding-right: 45%;
+    padding-bottom: 5%;
+    color:#f1f3f5;
+    border-radius: 5px;
+    margin-bottom: 5%;
+    width: 600px;
+}
+.fusion h4{
+    font-size: 25px;
+    margin-bottom: 10%;
+}
+.fusion p{
+    font-size: 30px;
+    margin-bottom: 10%;
+}
+.welcome{
+    margin-top: 5%;
+    margin-left: 25%;
+    font-size: 20px;
+    letter-spacing: 3px;
+    line-height: 20px;
+}
+.welcome h4{
+    margin-bottom: 2%;
+    margin-left: 15%;
+    color: #495057;
+}
+.welcome p{
+    color: #868e96;
+    margin-top: 4%;
+    margin-bottom: 7%;
+}
+.welcome h2{
+    margin-left: 11%;
+}
+#play{
+    background-image: url(image9.png);
+    padding: 16%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 8%;
+}
+footer{
+    display: flex;
+    gap: 10%;
+    line-height: 30px;
+    margin-left: 7%;
+    color: #868e96;
+    padding-bottom: 5%;
+}
+footer ul{
+    list-style: none;
+}
+footer div ul{
+    display: flex;
+    gap: 9%;
+    margin-top: 3%;
+}
+#p1{
+    margin-bottom: 2%;
+}
+#subscribe{
+    background-color:#f06595;
+    border-style: none;
+    color: white;
+    font-weight: 600;
+    padding: 5% 7%;
+    margin-top: 5%;
+    border-radius: 5px;
+}
+#email{
+    color: #868e96;
+    padding: 3% 18%;
+    margin-top: 3%;
+}
